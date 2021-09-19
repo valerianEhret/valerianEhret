@@ -1,4 +1,4 @@
-[![Header](https://github.com/valerianEhret/valerianEhret/blob/main/assets/ehret.png)](https://www.linkedin.com/in/valerian-ehret-954727210/)
+[![Header](https://github.com/valerianEhret/valerianEhret/blob/main/assets/ehret2.png)](https://www.linkedin.com/in/valerian-ehret-954727210/)
 
 ### Frontend developer who has a results-focused attitude to creating SPA, using React(JS/TS), Redux.
 ### Skills:
