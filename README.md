@@ -4,6 +4,8 @@
 ### Skills:
 ![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
+![Vue](https://img.shields.io/badge/-VUE-090909?style=for-the-badge&logo=vue.js)
+![Nuxt](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=nuxt.js)
 ![Typescript](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-the-badge&logo=typescript)
 ![Javascript](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5@)
