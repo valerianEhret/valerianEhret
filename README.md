@@ -1,6 +1,6 @@
 [![Header](https://github.com/valerianEhret/valerianEhret/blob/main/assets/ehret2.png)](https://www.linkedin.com/in/valerian-ehret-954727210/)
 
-### Frontend developer who has a results-focused attitude to creating SPA, using React(JS/TS), Redux.
+### Frontend developer
 ### Skills:
 ![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
